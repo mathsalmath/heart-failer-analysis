@@ -1,2 +1,2 @@
-# heart-failer-analysis
+# heart-failure-analysis
 heart failure analysis 
